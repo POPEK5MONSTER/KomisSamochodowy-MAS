@@ -1,2 +1,2 @@
-# KomisSamochodowy-MAS
+# Car dealership
 School Project
